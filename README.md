@@ -23,6 +23,11 @@ This repository provides a tutorial for running a molecular dynamics simulation 
 
 You can install the Python dependencies using:
 
+```bash
+pip install Pillow
+pip install tkinter
+```
+
 ## Requirements
 
 ## Installation
