@@ -14,8 +14,11 @@ This repository provides a tutorial for running a molecular dynamics simulation 
 
 ## Introduction
 
+
+## Requirements
+
 * Operating System: Linux
-* GROMACS: Ensure GROMACS is installed and configured in your environment. You can follow the official GROMACS installation guide.
+* GROMACS: Ensure GROMACS is installed and configured in your environment. You can follow the official [GROMACS installation guide](https://manual.gromacs.org/documentation/current/install-guide/index.html).
 * Python: Ensure Python is installed (preferably version 3.6 or above).
 * Dependencies: The following Python packages are required:
     * tkinter
@@ -23,14 +26,25 @@ This repository provides a tutorial for running a molecular dynamics simulation 
 
 You can install the Python dependencies using:
 
-\`\`\`bash
+```bash
 pip install Pillow
 pip install tkinter
-\`\`\`
-
-## Requirements
+```
 
 ## Installation
+
+1. Clone the repository:
+
+   To clone the given repository-
+
+   ```
+   git clone <repository-url>
+   cd <repository-directory>
+   ```
+
+3. Set up GROMACS:
+4. 
+
 
 ## Usuage
 
