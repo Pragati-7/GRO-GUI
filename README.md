@@ -107,4 +107,4 @@ Use the GUI to proceed through each step of the simulation, as outlined below.
 
 ## Contributings
 
-For any issues or inquiries, please contact [Pragati Singh] at [pragatisinghsingh45@gmail.com].
+For any issues or inquiries, please contact [Pragati Singh] at (pragatisinghsingh45@gmail.com).
